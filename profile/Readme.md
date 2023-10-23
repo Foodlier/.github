@@ -41,7 +41,7 @@
 <br>
 <img src="https://img.shields.io/badge/SMTP-CC0000?&logo=Gmail&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Junit-25A162?&logo=AssertJ&logoColor=white"> <img src="https://img.shields.io/badge/Mockito-008D62?&logo=Mockito&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/intellijidea-000000?&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/WebSocket-FF6C37"> 
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/WebSocket-FF6C37"> 
 <br>
 <img src="https://img.shields.io/badge/stomp-000000"> <img src="https://img.shields.io/badge/sockjs-000000"> 
 <br>
