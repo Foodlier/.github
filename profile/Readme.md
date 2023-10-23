@@ -31,6 +31,11 @@
 
 ## 🧑🏻‍🔧 기술 스택
 ### Front-End
+<img src="https://img.shields.io/badge/React Query-61DAFB?&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Msw-646CFF?&logo=Msw&logoColor=white"> <img src="https://img.shields.io/badge/Axios-ff3399?&logo=Axios&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Naver-03C75A?&logo=naver&logoColor=white"> <img src="https://img.shields.io/badge/Kakao-FFCD00?&logo=kakao&logoColor=black"> <img src="https://img.shields.io/badge/Toss-0064FF">
+<br>
+<img src="https://img.shields.io/badge/VITE-646CFF?&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/styled-components-DB7093?&logo=styledcomponents&logoColor=white"> 
 
 ### Back-End
 <img src="https://img.shields.io/badge/java-007396?&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-6DB33F?&logo=Spring boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring JPA-6DB33F?&logo=Spring JPA&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?&logo=gradle&logoColor=white">
@@ -39,14 +44,14 @@
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Query Dsl-2599ED?&logo=querydsl&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?&logo=elasticsearch&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/SMTP-CC0000?&logo=Gmail&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Junit-25A162?&logo=AssertJ&logoColor=white"> <img src="https://img.shields.io/badge/Mockito-008D62?&logo=Mockito&logoColor=white">
+<img src="https://img.shields.io/badge/SMTP-CC0000?&logo=Gmail&logoColor=white"> <img src="https://img.shields.io/badge/Junit-25A162?&logo=AssertJ&logoColor=white"> <img src="https://img.shields.io/badge/Mockito-008D62?&logo=Mockito&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/WebSocket-FF6C37"> 
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?&logo=swagger&logoColor=white"> 
 <br>
-<img src="https://img.shields.io/badge/stomp-000000"> <img src="https://img.shields.io/badge/sockjs-000000"> 
+<img src="https://img.shields.io/badge/WebSocket-FF6C37"> <img src="https://img.shields.io/badge/stomp-000000"> <img src="https://img.shields.io/badge/sockjs-000000"> 
 <br>
 ### Production & Deploy
-<img src="https://img.shields.io/badge/Amazon ec2-FF9900?&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?&logo=amazons3&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/github-181717?&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-2088FF?&logo=Jenkins&logoColor=white" alt="actions"> <img src="https://img.shields.io/badge/Vercel-181717?&logo=Vercel&logoColor=white" alt="actions">
 <br>
