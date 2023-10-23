@@ -20,7 +20,7 @@
 ---
 
 ## 🏠 Architecture
-![아키텍쳐 완성되면 추후넣을곳]()
+![Architecture](https://raw.githubusercontent.com/thwang26/zb-foodlier-image/main/architecture.png)
 
 ---
 
