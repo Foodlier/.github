@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/stomp-000000"> <img src="https://img.shields.io/badge/sockjs-000000"> 
 <br>
 ### Production & Deploy
-<img src="https://img.shields.io/badge/aws-232F3E?&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/ec2-FF9900?&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/AmazonS3-569A31?&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon ec2-FF9900?&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?&logo=amazons3&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/github-181717?&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-2088FF?&logo=Jenkins&logoColor=white" alt="actions"> <img src="https://img.shields.io/badge/Vercel-181717?&logo=Vercel&logoColor=white" alt="actions">
 <br>
