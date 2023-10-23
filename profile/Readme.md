@@ -35,7 +35,8 @@
 ### Back-End
 <img src="https://img.shields.io/badge/java-007396?&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/spring-6DB33F?&logo=spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring boot-6DB33F?&logo=Spring boot&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?&logo=gradle&logoColor=white">
+<img src="https://img.shields.io/badge/Spring boot-6DB33F?&logo=Spring boot&logoColor=white"> 
+<img src="https://img.shields.io/badge/gradle-02303A?&logo=gradle&logoColor=white">
 
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?&logo=Spring Security&logoColor=white"> 
 <img src="https://img.shields.io/badge/Spring Batch-6DB33F">
@@ -44,7 +45,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"> 
 
 <img src="https://img.shields.io/badge/Redis-DC382D?&logo=redis&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring JPA-6DB33F?&logo=Spring JPA&logoColor=white"> <img src="https://img.shields.io/badge/Query Dsl-2599ED?&logo=querydsl&logoColor=white">  
+<img src="https://img.shields.io/badge/Spring JPA-6DB33F?&logo=Spring JPA&logoColor=white"> 
+<img src="https://img.shields.io/badge/Query Dsl-2599ED?&logo=querydsl&logoColor=white">  
 <img src="https://img.shields.io/badge/SMTP-CC0000?&logo=Gmail&logoColor=white">
 
 <image src="https://img.shields.io/badge/Firebase-FFCA28?&logo=firebase&logoColor=white">
