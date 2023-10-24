@@ -19,6 +19,11 @@
 
 ---
 
+## 🔗 관련 링크
+[Notion](https://www.notion.so/1-507f9a29e4ba44e5841e3f03bcba9479?pvs=4)
+
+---
+
 ## 🏠 Architecture
 ![Architecture](https://raw.githubusercontent.com/thwang26/zb-foodlier-image/main/architecture.png)
 
