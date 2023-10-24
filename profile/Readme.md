@@ -1,4 +1,4 @@
-![Foodlier](https://raw.githubusercontent.com/thwang26/zb-foodlier-image/main/foodlier_logo.png)
+<p align="center"><img src="https://raw.githubusercontent.com/thwang26/zb-foodlier-image/main/foodlier_logo.png" height="106px" width="610px"></p>
 <br/>
 <br/>
 
