@@ -29,6 +29,7 @@ Foodlier는 1인 가구와 자취생의 증가에 맞춰, 레시피 공유 커�
 
 ## 🔗 관련 링크
 [Notion](https://www.notion.so/1-507f9a29e4ba44e5841e3f03bcba9479?pvs=4)
+<!-- [Figma](https://www.figma.com/file/iMHsluSPs8FwdFqstWbL1b/%EC%A0%9C%EB%A1%9C%EB%B2%A0%EC%9D%B4%EC%8A%A4-1%EC%A1%B0-(%EB%8D%94-%ED%85%8C%EC%9D%B4%EB%B8%94)?type=design&node-id=41-87&mode=design&t=M1N9GTokEbIaicu2-0) -->
 
 ---
 
