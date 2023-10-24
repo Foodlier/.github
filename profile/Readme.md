@@ -47,7 +47,7 @@ Foodlier는 음식 (Food)과 와인 감별사 또는 특정 분야의 전문지�
 <br>
 <img src="https://img.shields.io/badge/Naver-03C75A?&logo=naver&logoColor=white"> <img src="https://img.shields.io/badge/Kakao-FFCD00?&logo=kakao&logoColor=black"> <img src="https://img.shields.io/badge/Toss-0064FF">
 <br>
-<img src="https://img.shields.io/badge/VITE-646CFF?&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/styled-components-DB7093?&logo=styledcomponents&logoColor=white"> 
+<img src="https://img.shields.io/badge/VITE-646CFF?&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/styled-components-DB7093?&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/recoil-3578E5?&logo=recoil&logoColor=white"> 
 
 ### Back-End
 <img src="https://img.shields.io/badge/java-007396?&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-6DB33F?&logo=Spring boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring JPA-6DB33F?&logo=Spring JPA&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?&logo=gradle&logoColor=white">
