@@ -43,14 +43,14 @@ Foodlier는 음식 (Food)과 와인 감별사 또는 특정 분야의 전문지�
 
 ## 🧑🏻‍🔧 기술 스택
 ### Front-End
-<img src="https://img.shields.io/badge/React-61DAFB?&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Msw-646CFF?&logo=Msw&logoColor=white"> <img src="https://img.shields.io/badge/Axios-ff3399?&logo=Axios&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Typescript-3178C6?&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Msw-646CFF?&logo=Msw&logoColor=white"> <img src="https://img.shields.io/badge/Axios-ff3399?&logo=Axios&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Naver-03C75A?&logo=naver&logoColor=white"> <img src="https://img.shields.io/badge/Kakao-FFCD00?&logo=kakao&logoColor=black"> <img src="https://img.shields.io/badge/Toss-0064FF">
 <br>
-<img src="https://img.shields.io/badge/Vite-646CFF?&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/styled-components-DB7093?&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/Recoil-3578E5?&logo=recoil&logoColor=white"> 
+<img src="https://img.shields.io/badge/Vite-646CFF?&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/Styled-Components-DB7093?&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/Recoil-3578E5?&logo=recoil&logoColor=white"> 
 
 ### Back-End
-<img src="https://img.shields.io/badge/java-007396?&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-6DB33F?&logo=Spring boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring JPA-6DB33F?&logo=Spring JPA&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?&logo=gradle&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-6DB33F?&logo=Spring boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring JPA-6DB33F?&logo=Spring JPA&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?&logo=gradle&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Spring Batch-6DB33F"> <img src="https://img.shields.io/badge/Json web tokens-000000?&logo=Json web tokens&logoColor=white"> <img src="https://img.shields.io/badge/OAUTH2-EC1C24?&logo=Authy&logoColor=white">
 <br>
@@ -58,14 +58,14 @@ Foodlier는 음식 (Food)과 와인 감별사 또는 특정 분야의 전문지�
 <br>
 <img src="https://img.shields.io/badge/SMTP-CC0000?&logo=Gmail&logoColor=white"> <img src="https://img.shields.io/badge/Junit-25A162?&logo=AssertJ&logoColor=white"> <img src="https://img.shields.io/badge/Mockito-008D62?&logo=Mockito&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?&logo=swagger&logoColor=white"> 
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?&logo=swagger&logoColor=white"> 
 <br>
-<img src="https://img.shields.io/badge/WebSocket-FF6C37"> <img src="https://img.shields.io/badge/stomp-000000"> <img src="https://img.shields.io/badge/sockjs-000000"> 
+<img src="https://img.shields.io/badge/WebSocket-FF6C37"> <img src="https://img.shields.io/badge/Stomp-000000"> <img src="https://img.shields.io/badge/Sockjs-000000"> 
 <br>
 ### Production & Deploy
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?&logo=amazons3&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/github-181717?&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-2088FF?&logo=Jenkins&logoColor=white" alt="actions"> <img src="https://img.shields.io/badge/Vercel-181717?&logo=Vercel&logoColor=white" alt="actions">
+<img src="https://img.shields.io/badge/Github-181717?&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-2088FF?&logo=Jenkins&logoColor=white" alt="actions"> <img src="https://img.shields.io/badge/Vercel-181717?&logo=Vercel&logoColor=white" alt="actions">
 <br>
 <img src="https://img.shields.io/badge/NGINX-009639?&logo=nginx&logoColor=white" alt="actions"> <img src="https://img.shields.io/badge/Github Webhook-0866FF">
   
@@ -73,6 +73,6 @@ Foodlier는 음식 (Food)과 와인 감별사 또는 특정 분야의 전문지�
 <img src="https://img.shields.io/badge/Prometheus-E6522C?&logo=prometheus&logoColor=white" alt="actions"> <img src="https://img.shields.io/badge/Grafana-F46800?&logo=grafana&logoColor=white" alt="actions"> <img src="https://img.shields.io/badge/Kibana-005571?&logo=kibana&logoColor=white"> <img src="https://img.shields.io/badge/Cerebro-000000">
 
 ### Communication
-<img src="https://img.shields.io/badge/slack-4A154B?&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Gather-0058CC">
+<img src="https://img.shields.io/badge/Slack-4A154B?&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Github Issue-181717?&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Gather-0058CC">
 
 ---
