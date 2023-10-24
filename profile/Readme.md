@@ -13,7 +13,7 @@ Foodlier는 음식 (Food)과 와인 감별사 또는 특정 분야의 전문지�
 
 ---
 
-## 👪 팀원 소개
+## 👪 팀원 소개 [The-Table](https://github.com/orgs/Foodlier/teams/the-table)
 
 | <img src = https://github.com/thwang26/zb-foodlier-image/blob/main/db.png width="200" height="200"> | <img src = https://github.com/thwang26/zb-foodlier-image/blob/main/so.png width="200" height="200"> | <img src = https://github.com/thwang26/zb-foodlier-image/blob/main/mj.png width="200" height="200"> | <img src = https://github.com/thwang26/zb-foodlier-image/blob/main/bs.png width="200" height="200">|  
 |--|--|--|--|  
