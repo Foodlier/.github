@@ -43,7 +43,7 @@ Foodlier는 음식 (Food)과 와인 감별사 또는 특정 분야의 전문지�
 
 ## 🧑🏻‍🔧 기술 스택
 ### Front-End
-<img src="https://img.shields.io/badge/React Query-61DAFB?&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Msw-646CFF?&logo=Msw&logoColor=white"> <img src="https://img.shields.io/badge/Axios-ff3399?&logo=Axios&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Msw-646CFF?&logo=Msw&logoColor=white"> <img src="https://img.shields.io/badge/Axios-ff3399?&logo=Axios&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Naver-03C75A?&logo=naver&logoColor=white"> <img src="https://img.shields.io/badge/Kakao-FFCD00?&logo=kakao&logoColor=black"> <img src="https://img.shields.io/badge/Toss-0064FF">
 <br>
