@@ -1,9 +1,12 @@
-# Foodlier
-
+![Foodlier](https://raw.githubusercontent.com/thwang26/zb-foodlier-image/main/foodlier_logo.png)
+<br/>
 <br/>
 
 ## 📋프로젝트 소개
-<br>
+Foodlier는 1인가구, 자취생의 증가에 따라 서로의 레시피를 공유하고 상대방의 재료를 통해 요리를 만들어주어 요리경험을 제공해주는 서비스입니다.
+
+레시피 공유 커뮤니티와 요리 대행 서비스를 통합하여, 서비스 이용자들 끼리 서로의 요리법, 꿀팁 등을 공유하고
+활발한 커뮤니티 활동으로 요리사 자격을 얻게 된다면 다른 서비스 이용자들에게 요리를 만들어주어 특별한 요리경험을 선사해줍니다.
 
 ---
 
