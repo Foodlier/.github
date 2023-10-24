@@ -73,6 +73,6 @@ Foodlier는 음식 (Food)과 와인 감별사 또는 특정 분야의 전문지�
 <img src="https://img.shields.io/badge/Prometheus-E6522C?&logo=prometheus&logoColor=white" alt="actions"> <img src="https://img.shields.io/badge/Grafana-F46800?&logo=grafana&logoColor=white" alt="actions"> <img src="https://img.shields.io/badge/Kibana-005571?&logo=kibana&logoColor=white"> <img src="https://img.shields.io/badge/Cerebro-000000">
 
 ### Communication
-<img src="https://img.shields.io/badge/Slack-4A154B?&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Github Issue-181717?&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Gather-0058CC">
+<img src="https://img.shields.io/badge/Slack-4A154B?&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Github Issue-181717?&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Gather-0058CC"> <img src="https://img.shields.io/badge/Zep-6758FF">
 
 ---
