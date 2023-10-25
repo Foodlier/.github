@@ -20,7 +20,7 @@ FOODLIER는 음식 (Food)과 와인 감별사 또는 특정 분야의 전문지�
 |--|--|--|--|  
 |Front-End|Front-End|Front-End|Front-End / Team-Leader|
 |[김도빈](https://github.com/d-bCODING)|[민선오](https://github.com/seonohmin)|[윤민지](https://github.com/minpaper-dev)|[최보성](https://github.com/big-choi)|
-| <img src = https://github.com/thwang26/zb-foodlier-image/blob/main/sh.png width="200" height="200"> | <img src = https://github.com/thwang26/zb-foodlier-image/blob/main/jw.png width="200" height="200"> | <img src = https://github.com/thwang26/zb-foodlier-image/blob/main/hs.png width="200" height="200"> | <img src = https://github.com/thwang26/zb-foodlier-image/blob/main/tw.png width="200" height="200">|  
+| <img src = https://github.com/thwang26/zb-foodlier-image/blob/main/sh2.png width="200" height="200"> | <img src = https://github.com/thwang26/zb-foodlier-image/blob/main/jw.png width="200" height="200"> | <img src = https://github.com/thwang26/zb-foodlier-image/blob/main/hs.png width="200" height="200"> | <img src = https://github.com/thwang26/zb-foodlier-image/blob/main/tw.png width="200" height="200">|  
 |Back-End|Back-End|Back-End|Back-End|
 |[이승현](https://github.com/SeungHyunLee054)|[이종욱](https://github.com/gomljo)|[전현서](https://github.com/J-HyeonSeo)|[황태원](https://github.com/thwang26)|
 
