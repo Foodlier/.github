@@ -29,8 +29,8 @@ FOODLIER는 음식 (Food)과 와인 감별사 또는 특정 분야의 전문지�
 ## 🔗 관련 링크
 ### [Notion](https://www.notion.so/1-507f9a29e4ba44e5841e3f03bcba9479?pvs=4)
 ### [Figma](https://www.figma.com/file/iMHsluSPs8FwdFqstWbL1b/%EC%A0%9C%EB%A1%9C%EB%B2%A0%EC%9D%B4%EC%8A%A4-1%EC%A1%B0-(%EB%8D%94-%ED%85%8C%EC%9D%B4%EB%B8%94)?type=design&node-id=41-87&mode=design&t=M1N9GTokEbIaicu2-0)
-<!--[Youtube](발표영상)-->
-<!--[Youtube](시연영상)-->
+<!--### [Youtube](발표영상)-->
+<!--### [Youtube](시연영상)-->
 
 ---
 
@@ -47,8 +47,6 @@ FOODLIER는 음식 (Food)과 와인 감별사 또는 특정 분야의 전문지�
 ## 🧑🏻‍🔧 기술 스택
 ### Front-End
 <img src="https://img.shields.io/badge/React-61DAFB?&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Typescript-3178C6?&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Msw-646CFF?&logo=Msw&logoColor=white"> <img src="https://img.shields.io/badge/Axios-ff3399?&logo=Axios&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Naver-03C75A?&logo=naver&logoColor=white"> <img src="https://img.shields.io/badge/Kakao-FFCD00?&logo=kakao&logoColor=black"> <img src="https://img.shields.io/badge/Toss-0064FF">
 <br>
 <img src="https://img.shields.io/badge/Vite-646CFF?&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/Styled-Components-DB7093?&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/Recoil-3578E5?&logo=recoil&logoColor=white"> 
 
