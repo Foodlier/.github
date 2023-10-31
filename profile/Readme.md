@@ -57,7 +57,7 @@ FOODLIER는 음식 (Food)과 와인 감별사 또는 특정 분야의 전문지�
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Query Dsl-2599ED?&logo=querydsl&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?&logo=elasticsearch&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/SMTP-CC0000?&logo=Gmail&logoColor=white"> <img src="https://img.shields.io/badge/Junit-25A162?&logo=AssertJ&logoColor=white"> <img src="https://img.shields.io/badge/Mockito-008D62?&logo=Mockito&logoColor=white">
+<img src="https://img.shields.io/badge/SMTP-CC0000?&logo=Gmail&logoColor=white"> <img src="https://img.shields.io/badge/Junit-25A162?&logo=AssertJ&logoColor=white"> <img src="https://img.shields.io/badge/Mockito-008D62?&logo=Mockito&logoColor=white"> <img src="https://img.shields.io/badge/Elastic Cache-005571?&logo=ElasticCache&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?&logo=swagger&logoColor=white"> 
 <br>
