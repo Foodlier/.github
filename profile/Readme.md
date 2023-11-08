@@ -35,7 +35,7 @@ FOODLIER는 음식 (Food)과 와인 감별사 또는 특정 분야의 전문지�
 ---
 
 ## 🏠 Architecture
-![Architecture](https://raw.githubusercontent.com/thwang26/zb-foodlier-image/main/architecture.png)
+![Architecture](https://raw.githubusercontent.com/thwang26/zb-foodlier-image/main/architecture2.png)
 
 ---
 
